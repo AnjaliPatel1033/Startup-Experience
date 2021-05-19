@@ -149,6 +149,7 @@ body{
     position: relative;
     min-height:330px;
     background: transparent;
+    cursor: pointer;
     border: 0 !important;
 }
 .features .card-front-text{
